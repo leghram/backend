@@ -1,5 +1,4 @@
-from cgitb import text
-from operator import indexOf
+
 from camelcase import CamelCase
 
 print("2 LIBRERIAS")
